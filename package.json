@@ -77,7 +77,7 @@
   },
   "optionalDependencies": {
     "update-notifier": "^0.6.0",
-    "wct-local": "^2.0.8",
+    "wct-local": "git://github.com/netopyr/wct-local.git#master",
     "wct-sauce": "^1.8.2"
   },
   "devDependencies": {
